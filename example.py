@@ -18,5 +18,5 @@ message = email_sender.create_message(subject="Test",
 # Send message.
 email_sender.send_email(message)
 
-print("Sent!")
+print("Program terminated.")
 
